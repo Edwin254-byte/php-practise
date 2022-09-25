@@ -6,11 +6,8 @@
 </div>
 <nav class="col-sm-2">
     <div class="btn-group-vertical btn-group-sm" role="group" aria-label="Button Group">
-        <button type="button" class="btn btn-secondary" onclick="location.href = 'register-page.php'" >
-            Erase Entries
-        </button>
-        <button type="button" class="btn btn-secondary" onclick="location.href = 'index.php'">
-            Cancel
-        </button>
+        <button type="button" class="btn btn-secondary" onclick="location.href = 'logout.php'" >Logout</button>
+        <button type="button" class="btn btn-secondary"
+        onclick="location.href = 'change-password.php'" >New Password</button>
     </div>
 </nav>

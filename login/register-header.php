@@ -6,7 +6,7 @@
 </div>
 <nav class="col-sm-2">
     <div class="btn-group-vertical btn-group-sm" role="group" aria-label="Button Group">
-        <button type="button" class="btn btn-secondary" onclick="location.href = 'register-page.php'" >
+        <button type="button" class="btn btn-secondary" onclick="location.href = 'register-page'" >
             Erase Entries
         </button>
         <button type="button" class="btn btn-secondary" onclick="location.href = 'index.php'">
